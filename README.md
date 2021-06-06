@@ -81,13 +81,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
 [contributors-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
 [forks-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
 [issues-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
 [license-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/blob/main/LICENSE
