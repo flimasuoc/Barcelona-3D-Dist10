@@ -92,16 +92,7 @@ define([
         },
 
         applyOriginalTexture: function (layer) {
-            layer.renderer = {
-                type: "simple",
-                symbol: {
-                    type: "simple-fill",
-                    symbolLayers: [{
-                        type: "fill",
-                        material: null
-                    }]
-                }
-            }
+            location.reload();
         }
     }
 
