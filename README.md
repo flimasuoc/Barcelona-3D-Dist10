@@ -24,7 +24,7 @@
 <p align="justify">
     Utilizando la visualización 3D de mapas cartográficos, los usuarios podrán averiguar mediante mapas de calor el crecimiento de las edificaciones a lo largo del tiempo.
 </p>
-<a target="_blank" href="https://flimasuoc.github.io/Barcelona-3D-Dist10"><strong>Ver aplicación en vivo »</strong></a>
+<a href="https://flimasuoc.github.io/Barcelona-3D-Dist10" target="_blank"><strong>Ver aplicación en vivo »</strong></a>
 <br/>
 <a href="https://github.com/github_username/repo_name"><strong>Ver memoria técnica »</strong></a>
 <br/>
