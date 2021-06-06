@@ -43,38 +43,36 @@
 
 ### Autores
 
-* []()
-* []()
-* []()
+* [Juan Fernando Lima](#)
+* [Anna Muñoz Bollas]()
+* [Dr. Antoni Pérez-Navarro]()
 
 ### Instalación
 
-1. Clone the repo
+1. Clonar el repositorio.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/flimasuoc/Barcelona-3D-Dist10.git
    ```
-2. Install NPM packages
+3. Configure los campos del archivo de configuración de la escena ESRI (web scene). 
    ```sh
-   npm install
+   archivo: app/config.js
+   campos: portalUrl, itemId, buildingLayerTitle, heightField, usageField, yearField
    ```
+3. Haga el despliegue en su servidor web, por ejemplo: apache2.
 
 <!-- LICENSE -->
-
 ## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+Distribuido bajo licencia `CC0-1.0`, ver archivo `LICENSE` para más información.
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Agradecimientos
+* [RalucaNicola](https://github.com/RalucaNicola), por el widget de tiempo.
+* [ESRI](https://github.com/esri), por brindar la libreria javascript para renderiraciones de mapas en la web.
 
-* []()
-* []()
-* []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
