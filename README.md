@@ -43,7 +43,7 @@
 
 ### Autores
 
-* [Juan Fernando Lima](#)
+* [Juan Fernando Lima]()
 * [Anna Muñoz Bollas]()
 * [Dr. Antoni Pérez-Navarro]()
 
