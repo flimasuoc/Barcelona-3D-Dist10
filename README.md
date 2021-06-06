@@ -23,11 +23,11 @@
 
 <p align="justify">
     Utilizando la visualización 3D de mapas cartográficos, los usuarios podrán averiguar mediante mapas de calor el crecimiento de las edificaciones a lo largo del tiempo.
-    <br/>
-    <a target="_blank" href="https://flimasuoc.github.io/Barcelona-3D-Dist10"><strong>Ver aplicación en vivo »</strong></a>
-    <br/>
-    <a href="https://github.com/github_username/repo_name"><strong>Ver memoria técnica »</strong></a>
 </p>
+<a target="_blank" href="https://flimasuoc.github.io/Barcelona-3D-Dist10"><strong>Ver aplicación en vivo »</strong></a>
+<br/>
+<a href="https://github.com/github_username/repo_name"><strong>Ver memoria técnica »</strong></a>
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -41,10 +41,10 @@
 </details>
 
 ### Autores
-* []()
-* []()
-* []()
 
+* []()
+* []()
+* []()
 
 ### Instalación
 
@@ -58,6 +58,7 @@
    ```
 
 <!-- LICENSE -->
+
 ## Licencia
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -67,25 +68,32 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Agradecimientos
 
 * []()
 * []()
 * []()
 
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
+
 [contributors-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
+
 [forks-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
+
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
+
 [issues-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/issues
+
 [license-shield]: https://img.shields.io/github/license/flimasuoc/Barcelona-3D-Dist10.svg?style=for-the-badge
+
 [license-url]: https://github.com/flimasuoc/Barcelona-3D-Dist10/blob/main/LICENSE
