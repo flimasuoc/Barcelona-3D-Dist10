@@ -20,9 +20,10 @@
   </a>
 </p>
 <h2 align="center">Evolución urbanística de la ciudad de Barcelona en 3D </h2>
+<h6 align="center">Servicios basados en localización y espacio inteligentes </h6>
 
 <p align="justify">
-    Utilizando la visualización 3D de mapas cartográficos, los usuarios podrán averiguar mediante mapas de calor el crecimiento de las edificaciones a lo largo del tiempo.
+    Utilizando la visualización 3D de mapas cartográficos, los usuarios podrán averiguar mediante mapas de calor el crecimiento de las edificaciones a lo largo del tiempo, este trabajo se enfoca sobre el distrito "Sant Martí" (distrito 10).
 </p>
 <a href="https://flimasuoc.github.io/Barcelona-3D-Dist10" target="_blank"><strong>Ver aplicación en vivo »</strong></a>
 <br/>
