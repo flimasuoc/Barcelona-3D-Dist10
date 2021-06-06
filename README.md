@@ -18,15 +18,14 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="https://www.uoc.edu/portal/system/modules/edu.uoc.presentations/resources/img/branding/logo-uoc-default.png_1618809817.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h2 align="center">Evolución urbanística de la ciudad deBarcelona en 3D </h2>
 </p>
+<h2 align="center">Evolución urbanística de la ciudad deBarcelona en 3D </h2>
 
 <p align="justify">
     Utilizando la visualización 3D de mapas cartográficos, los usuarios podrán averiguar mediante mapas de calor el crecimiento de las edificaciones a lo largo del tiempo.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Ver aplicación en vivo »</strong></a>
-    <br />
+    <br/>
+    <a href="https://flimasuoc.github.io/Barcelona-3D-Dist10"><strong>Ver aplicación en vivo »</strong></a>
+    <br/>
     <a href="https://github.com/github_username/repo_name"><strong>Ver memoria técnica »</strong></a>
 </p>
 
