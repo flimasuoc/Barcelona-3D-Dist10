@@ -1,0 +1,94 @@
+<!-- http://zrh.mapsdevext.arcgis.com/home/webscene/viewer.html?webscene=6d7fedb7a8d84c9fad6903583c6c63c6 -->
+<!-- http://jsapi.maps.arcgis.com/home/webscene/viewer.html?webscene=d9d0b213cd814daa82a8e7142c9dda6e -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
+    <link rel="icon" href="https://img.icons8.com/dusk/50/000000/map-editing.png">
+    <title>Evolución Urbanística de Barcelona</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.19/esri/css/main.css"/>
+    <link rel="stylesheet" href="./style.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script>
+        window.dojoConfig = {
+            async: true,
+            packages: [{
+                name: 'app',
+                location: location.pathname.replace(/\/[^\/]+$/, '') + 'app/'
+            }]
+        };
+    </script>
+    <script src="https://js.arcgis.com/4.19/"></script>
+
+    <script>
+        require([
+            'app/main'
+        ], function (main) {
+            main.init();
+        });
+
+        function zoom() {
+            document.body.style.zoom = "80%"
+        }
+    </script>
+</head>
+
+<body onload="showGraphics()">
+<div id="viewDiv">
+    <div id="statsContainer">
+        <button id="btnShowGraphics" class="text-button" style="position:absolute; top:0; right:0;"
+                onclick="showGraphics()"><i class="fa fa-bars"></i></button>
+        <button id="btnHideGraphics" class="text-button" style="position:absolute; top:0; right:0;"
+                onclick="hideGraphics()"><i class="fa fa-minus"></i></button>
+        <div class="title">Evolución urbanística de Barcelona:&nbsp;&nbsp;&nbsp;&nbsp;<br>Sant Martí (distrito 10)</div>
+        <div id="graphicsContainer">
+            <div class="buttons">
+                <button id="drawPolygon" class="text-button">Seleccionar un polígono</button>
+                <button id="clearSelection" class="text-button">Limpiar selección</button>
+                <button id="clearRenderer" class="text-button">Limpiar renderizado</button>
+            </div>
+            <div class="charts">
+                <div>
+                    <canvas id="yearChart" width="350" height="170"></canvas>
+
+                    <button id="applyYearRenderer" class="text-button">Color by construction year</button>
+
+                </div>
+                <div>
+                    <canvas id="heightChart" width="350" height="170"></canvas>
+                    <button id="applyHeightRenderer" class="text-button">Color by height</button>
+                </div>
+                <div>
+                    <canvas id="usageChart" width="350" height="170"></canvas>
+                    <button id="applyUsageRenderer" class="text-button">Color by usage</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="timeContainer" class="esri-widget">
+    </div>
+</div>
+
+<script>
+    function hideGraphics() {
+        document.getElementById("graphicsContainer").style.display = "none";  //hide
+        document.getElementById("btnHideGraphics").style.display = "none";  //hide
+        document.getElementById("btnShowGraphics").style.display = "block";  //show
+    }
+
+    function showGraphics() {
+        document.getElementById("graphicsContainer").style.display = "block"; //show
+        document.getElementById("btnShowGraphics").style.display = "none";  //hide
+        document.getElementById("btnHideGraphics").style.display = "block";  //show
+    }
+</script>
+
+</body>
+
+</html>
+
