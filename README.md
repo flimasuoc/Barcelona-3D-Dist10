@@ -28,10 +28,11 @@
 <br/>
 <a href="https://github.com/github_username/repo_name"><strong>Ver memoria técnica »</strong></a>
 <br/>
-
+<br/>
+<br/>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li><a href="#Autores">Autores</a></li>
     <li><a href="#Instalación">Instalación</a></li>
