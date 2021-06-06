@@ -37,7 +37,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de contenidos</h2></summary>
   <ol>
     <li><a href="#Autores">Autores</a></li>
     <li><a href="#Instalación">Instalación</a></li>
@@ -53,7 +53,7 @@
 * []()
 
 
-### Installation
+### Instalación
 
 1. Clone the repo
    ```sh
@@ -65,7 +65,7 @@
    ```
 
 <!-- LICENSE -->
-## License
+## Licencia
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Agradecimientos
 
 * []()
 * []()
