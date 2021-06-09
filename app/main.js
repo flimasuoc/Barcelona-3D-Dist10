@@ -148,8 +148,9 @@ define([
                     if (layer.title === config.buildingLayerTitle) {
                         bdgLayer = layer;
                         bdgLayer.popupTemplate = {
-                            content: `<b>Edificio mide:</b> {${config.heightField}}m.<br> <b>Año de construcción:</b>
-              {${config.yearField}}.<br> <b>Se utiliza en:</b> {${config.usageField}}.`
+                            content: `<b>Edificio mide:</b> {${config.heightField}}m.<br> 
+                                      <b>Año de construcción:</b> {${config.yearField}}.<br> 
+                                      <b>Se utiliza en:</b> {${config.usageField}}.`
                         };
                         bdgLayer.outFields = [config.heightField, config.yearField, config.usageField];
 
