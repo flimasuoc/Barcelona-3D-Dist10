@@ -45,8 +45,7 @@
 ### Autores
 
 * [Juan Fernando Lima]()
-<br/>
-Con la guia de: 
+<br/>Con la guia de: <br/>
 * [Anna Muñoz Bollas]()
 
 
