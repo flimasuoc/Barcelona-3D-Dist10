@@ -45,8 +45,9 @@
 ### Autores
 
 * [Juan Fernando Lima]()
+Con la guia de: 
 * [Anna Muñoz Bollas]()
-* [Dr. Antoni Pérez-Navarro]()
+
 
 ### Instalación
 
